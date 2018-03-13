@@ -1,0 +1,13 @@
+*.DS_Store
+*.pyc
+*py~
+*.pth
+Models/*
+Data/*
+models/*
+log_dir/*
+log_dir_mnist/*
+MNIST_data/*
+model/*
+.ipynb_checkpoints/*
+__deprecated/*
